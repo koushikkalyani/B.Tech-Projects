@@ -1,0 +1,2 @@
+# Mini-Project
+This work has been done during my 3rd year 2nd sem of B.tech for mini project course. In which I have implemented Image processing techniques on FPGA board Zynq zc706 evolutionary board through Hardware-Software Co-Simulation. I have used Xilinx System Generator as a tool to build algorithm.
