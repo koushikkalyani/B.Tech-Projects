@@ -1,4 +1,4 @@
-# Mini-Project
+# B.Tech Projects.
 2nd year 2nd sem
 This work has been done during 2-2sem. 
 
